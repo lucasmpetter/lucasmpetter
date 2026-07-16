@@ -1,6 +1,15 @@
-<h1 align="center">
-  Olá, eu sou o Lucas 👋
-</h1>
+<div align="center">
+
+  <h1>Olá, eu sou Lucas Petter 👋</h1>
+
+  <a href="https://github.com/lucasmpetter">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6C24E0&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Front-end+and+SaaS+Developer;Co-founder+of+Arandu+Intelligence+Systems"
+      alt="Typing animation"
+    />
+  </a>
+
+</div>
 
 <h3 align="center">
   Engenharia de Software • Desenvolvimento SaaS • Front-end
