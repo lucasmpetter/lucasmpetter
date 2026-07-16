@@ -32,6 +32,13 @@
 
 ---
 
+<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/🇧🇷_Portuguese-Native-6c24e0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🇺🇸_English-Fluent-8cffb8?style=for-the-badge&labelColor=202020" />
+</p>
+</div>
+
 ## Sobre mim
 
 - 🎓 Estudante de Engenharia de Software
