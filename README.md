@@ -91,10 +91,10 @@
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
   <img src="https://img.shields.io/badge/LinkedIn-6c24e0?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:lucasdemoraespetter@gmail.com">
+<a href="mailto:lucas.petter@arandudf.com.br">
   <img src="https://img.shields.io/badge/Email-202020?style=for-the-badge&logo=gmail&logoColor=8cffb8" />
 </a>
-<a href="https://SEU_SITE.com">
+<a href="https://arandudf.com.br">
   <img src="https://img.shields.io/badge/Website-8cffb8?style=for-the-badge&logo=vercel&logoColor=202020" />
 </a>
 
